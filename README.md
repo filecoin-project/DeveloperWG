@@ -37,7 +37,5 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 | 3.     |                         |                                                            |                            | 
 | 4.     |                         |                                                            |                            | 
 
-### Recent Meetings
-@erinOCon is the primary repo admin.
 
-The meetings are independent of any organization. However, the Filecoin Foundation pays for the videoconference software used in the meetings.
+While the meetings are independent of any organization, the Filecoin Foundation pays for the videoconference software used in the meetings. @erinOCon is the primary repo admin.
