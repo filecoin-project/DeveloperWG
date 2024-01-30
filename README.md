@@ -15,9 +15,10 @@ While Filecoin Foundation provides administration support to community working g
 
 Ecosystem contributors and learners who intend to build, research or otherwise support development activities on top of the Filecoin protocol are encouraged to join! Though conversations are often technical in nature, all interested parties are welcome to participate regardless of skill set or background. 
 
-In order to ensure alignment with the mission and purpose of the group, it is expected that all participants share a mutual interest in developing Filecoin use cases in support of Filecoin’s mission.
+In order to ensure alignment with the mission and purpose of the group, it is expected that all participants share a mutual interest in developing Filecoin use cases in support of Filecoin’s mission. Please also note that the DevWG is entirely distinct from [Core Devs](https://github.com/filecoin-project/core-devs), a separate community group responsible for overseeing the technical development of the core Filecoin protocol. 
 
-Please note that working group participation is both optional and voluntary. All participants are required to adhere to the Filecoin Community Code of Conduct.  Participants found by the group to be in violation of these guidelines are subject to censorship and/or removal by the group. 
+Working group participation is both optional and voluntary. All participants are required to adhere to the Filecoin Community Code of Conduct.  Participants found by the group to be in violation of these guidelines are subject to censorship and/or removal by the group. 
+
 ### Joining the Working Group
 
 Participants can engage in the Developer WG through the following connection points:
