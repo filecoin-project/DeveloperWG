@@ -31,9 +31,9 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 
 ### Recent Meetings
 
-| Number | Date       | Agenda  | Notes|
-| :---   | :------                 | :---                                                       | :---                       | 
-| 1.     |                         |                                                            |                            | 
+| Number | Date           | Agenda  | Notes|
+| :---   | :------        | :---                                                       | :---                       | 
+| 1.     | March 1, 2024  | [Agenda](https://docs.google.com/presentation/d/15ZuIPn40asOkkRPxo6ShiM23TZhDq2krPczcFLcTXsU/edit#slide=id.g2bdc835a16c_0_20)                                                  | Kick off meeting                           | 
 | 2.     |                         |                                                            |                            | 
 | 3.     |                         |                                                            |                            | 
 | 4.     |                         |                                                            |                            | 
