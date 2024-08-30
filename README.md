@@ -1,3 +1,5 @@
+## Join [our next call](https://lu.ma/n1qa6gj6) on September 5th!
+
 # Developer WG (DevWG)
 
 ### Mission and Purpose
