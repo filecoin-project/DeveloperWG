@@ -34,7 +34,7 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 | :---   | :------        | :---                                                       
 | 1.     | March 1, 2024  |             |                                         
 | 2.     | July 25, 2024  |             |   
-| 3.     | September 5, 2024            |
+| 3.     | September 5, 2024 |  [Join us!](https://lu.ma/n1qa6gj6)   |
 | 4.     |                |             |
 
 
