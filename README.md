@@ -1,5 +1,3 @@
-## Join the [#dev-wg](https://filecoinproject.slack.com/archives/C06G5K8H3J7) Slack channel to get the lastest news on our meet ups! 
-
 # Developer WG (DevWG)
 
 ### Mission and Purpose
@@ -25,7 +23,7 @@ Working group participation is both optional and voluntary. All participants are
 
 Participants can engage in the Developer WG through the following connection points:
 - Attend Quarterly calls. 
-- Join the [#dev-wg](https://filecoinproject.slack.com/archives/C06G5K8H3J7) Slack channel.
+- Join the [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) channel in Discord.
 - Create an Issue in this Github repo to add a new agenda item.
 
 The Developer WG is a means for those active or highly interested in the Filecoin ecosystem to  engage in meaningful discussion over the future of Filecoin.  
