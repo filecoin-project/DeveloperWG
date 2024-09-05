@@ -1,6 +1,8 @@
-## Welcome! Join the conversation at [our next monthly call](https://lu.ma/n1qa6gj6). Agenda items can be added [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)!
-
 # Developer WG (DevWG)
+
+### Hello! Looking to connect?
+- Join the conversation in [our next monthly call](https://lu.ma/n1qa6gj6), add agenda items [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
+- Stay in touch in the [Builders Discussions Channel](https://discord.com/channels/1210612276357500978/1234888399647801426)
 
 ### Mission and Purpose
 The Developer WG is a space to connect with developers, community members, researchers, and others interested in the development of new tools, technologies, and use cases that leverage the Filecoin protocol. 
@@ -24,7 +26,7 @@ Working group participation is both optional and voluntary. All participants are
 ### Joining the Working Group
 
 Participants can engage in the Developer WG through the following connection points:
-- Attend Quarterly calls. 
+- Attend Monthly calls. 
 - Join the [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) channel in Discord.
 - Create an Issue in this Github repo to add a new agenda item.
 
