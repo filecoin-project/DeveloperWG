@@ -1,4 +1,4 @@
-## Join [our next call](https://lu.ma/n1qa6gj6) on September 5th!
+## Welcome! Join the conversation at [our next monthly call](https://lu.ma/n1qa6gj6). Agenda items can be added [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)!
 
 # Developer WG (DevWG)
 
