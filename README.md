@@ -29,7 +29,7 @@ Working group participation is both optional and voluntary. All participants are
 
 Participants can engage in the Developer WG through the following connection points:
 - Attend Monthly calls. 
-- Join the [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) channel in Discord.
+- Connect with us in [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) (Discord) or [#fil-builders](https://lu.ma/3couk2gb) (Slack)
 - Create an Issue in this Github repo to add a new agenda item.
 
 The Developer WG is a means for those active or highly interested in the Filecoin ecosystem to  engage in meaningful discussion over the future of Filecoin.  
