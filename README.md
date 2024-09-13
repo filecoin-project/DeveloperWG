@@ -1,8 +1,10 @@
 # Developer WG (DevWG)
 
 ### Hello! Looking to connect?
-- Join the conversation in [our next monthly call](https://lu.ma/n1qa6gj6), add agenda items [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
-- Stay in touch in the [Builders Discussions Channel](https://discord.com/channels/1210612276357500978/1234888399647801426)
+- Join the conversation in [our next monthly call](https://lu.ma/3couk2gb), add agenda items [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
+- Stay in touch
+  - [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) in Discord
+  - [#fil-builders](https://app.slack.com/huddle/TEHTVS1L6/CRK2LKYHW) in Slack
 
 ### Mission and Purpose
 The Developer WG is a space to connect with developers, community members, researchers, and others interested in the development of new tools, technologies, and use cases that leverage the Filecoin protocol. 
@@ -38,8 +40,8 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 | :---   | :------        | :---                                                       
 | 1.     | March 1, 2024  |             |                                         
 | 2.     | July 25, 2024  |             |   
-| 3.     | September 5, 2024 |  [Join us!](https://lu.ma/n1qa6gj6)   |
-| 4.     |                |             |
+| 3.     | September 5, 2024 |[Recording](https://www.youtube.com/watch?v=j6mYvgrOizY)|
+| 4.     | October 3, 2024 | [Join us!](https://lu.ma/3couk2gb)            |
 
 
 While the meetings are independent of any organization, the Filecoin Foundation pays for the videoconference software used in the meetings. @erinOCon is the primary repo admin.
