@@ -4,7 +4,7 @@
 - Join the conversation in [our next monthly call](https://lu.ma/3couk2gb), add agenda items [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
 - Stay in touch
   - [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) in Discord
-  - [#fil-builders](https://app.slack.com/huddle/TEHTVS1L6/CRK2LKYHW) in Slack
+  - [#fil-builders](https://filecoinproject.slack.com/archives/CRK2LKYHW) in Slack
 
 ### Mission and Purpose
 The Developer WG is a space to connect with developers, community members, researchers, and others interested in the development of new tools, technologies, and use cases that leverage the Filecoin protocol. 
