@@ -1,7 +1,9 @@
 # Developer WG (DevWG)
 
 ### Hello! Looking to connect?
-- Join the conversation in [our next monthly call](https://lu.ma/3couk2gb), add agenda items [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
+- Join the conversation in [our next monthly call](https://lu.ma/3couk2gb)
+    -  Fun Fact #1: You can complete [this form](https://forms.gle/ptUwEPW8CKt5NwVb8) to have all future calls added to your calendar. 
+    -  Fun Fact #2: You can add an agenda item for the next call [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
 - Stay in touch
   - [Builders Discussions](https://discord.com/channels/1210612276357500978/1234888399647801426) in Discord
   - [#fil-builders](https://filecoinproject.slack.com/archives/CRK2LKYHW) in Slack
