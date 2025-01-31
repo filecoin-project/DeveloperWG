@@ -1,7 +1,7 @@
 # Developer WG (DevWG)
 
 ### Hello! Looking to connect?
-- Join the conversation in [our next monthly call](https://lu.ma/ra2zpfp7)
+- Join the conversation in [our monthly call](https://lu.ma/y1rpcons)
     -  Fun Fact #1: You can complete [this form](https://forms.gle/ptUwEPW8CKt5NwVb8) to have all future calls added to your calendar. 
     -  Fun Fact #2: You can add an agenda item for the next call [here](https://github.com/filecoin-project/DeveloperWG/issues/new/choose)
 - Stay in touch
