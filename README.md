@@ -46,6 +46,8 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 | 4.     | October 3, 2024 | [Slides](https://lu.ma/3couk2gb](https://docs.google.com/presentation/d/1kmVuX3hjpokXApFBftfOqTJN_-wlQ_hbuK7nl9nkCWA/edit?usp=sharing))            |
 | 4.     | November 13, 2024| In person meet up at [Code and Corgi](https://lu.ma/udulaer4)!|
 | 5.     | December 5, 2024| [Recording](https://www.youtube.com/watch?v=928GhIpW6FU)
+| 6.     | February 6, 2025| [Join us!](https://lu.ma/y1rpcons)
+
 
 
 While the meetings are independent of any organization, the Filecoin Foundation pays for the videoconference software used in the meetings. @erinOCon is the primary repo admin.
