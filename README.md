@@ -47,6 +47,8 @@ The Developer WG is a means for those active or highly interested in the Filecoi
 | 4.     | November 13, 2024| In person meet up at [Code and Corgi](https://lu.ma/udulaer4)!|
 | 5.     | December 5, 2024| [Recording](https://www.youtube.com/watch?v=928GhIpW6FU)
 | 6.     | February 6, 2025| [Recording](https://www.youtube.com/watch?v=1AVYskrJ3HE)
+| 7.     | March 6, 2025| In Progress
+| 7.     | April 3, 2025| [Join us!](https://lu.ma/osyfc063)
 
 
 
